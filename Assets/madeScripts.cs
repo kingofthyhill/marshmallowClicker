@@ -8,4 +8,5 @@ public class madeScripts : MonoBehaviour {
 		float final = Mathf.Round(num * multBy) / multBy;
 		return (final); 
 	}
+
 }
